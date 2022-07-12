@@ -15,8 +15,8 @@
 		508BE58D2879E52B005EEE34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 508BE58B2879E52B005EEE34 /* LaunchScreen.storyboard */; };
 		508BE5952879E623005EEE34 /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 508BE5942879E623005EEE34 /* ProfileView.xib */; };
 		508BE5992879E7F9005EEE34 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508BE5982879E7F9005EEE34 /* ProfileView.swift */; };
-		508BE59B2879E94A005EEE34 /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 508BE59A2879E94A005EEE34 /* Profile.storyboard */; };
-		508BE59D2879E97D005EEE34 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 508BE59C2879E97D005EEE34 /* ProfileViewController.swift */; };
+		50AB1034287D8EBA008A101B /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50AB1033287D8EBA008A101B /* Profile.storyboard */; };
+		50AB1036287D8EE1008A101B /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50AB1035287D8EE1008A101B /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +30,8 @@
 		508BE58E2879E52B005EEE34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		508BE5942879E623005EEE34 /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
 		508BE5982879E7F9005EEE34 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
-		508BE59A2879E94A005EEE34 /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
-		508BE59C2879E97D005EEE34 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		50AB1033287D8EBA008A101B /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
+		50AB1035287D8EE1008A101B /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,8 +73,8 @@
 				508BE58E2879E52B005EEE34 /* Info.plist */,
 				508BE5942879E623005EEE34 /* ProfileView.xib */,
 				508BE5982879E7F9005EEE34 /* ProfileView.swift */,
-				508BE59A2879E94A005EEE34 /* Profile.storyboard */,
-				508BE59C2879E97D005EEE34 /* ProfileViewController.swift */,
+				50AB1033287D8EBA008A101B /* Profile.storyboard */,
+				50AB1035287D8EE1008A101B /* ProfileViewController.swift */,
 			);
 			path = Netology_IB_Instruments;
 			sourceTree = "<group>";
@@ -139,7 +139,7 @@
 			files = (
 				508BE5952879E623005EEE34 /* ProfileView.xib in Resources */,
 				508BE58D2879E52B005EEE34 /* LaunchScreen.storyboard in Resources */,
-				508BE59B2879E94A005EEE34 /* Profile.storyboard in Resources */,
+				50AB1034287D8EBA008A101B /* Profile.storyboard in Resources */,
 				508BE58A2879E52B005EEE34 /* Assets.xcassets in Resources */,
 				508BE5882879E52A005EEE34 /* Main.storyboard in Resources */,
 			);
@@ -154,7 +154,7 @@
 			files = (
 				508BE5992879E7F9005EEE34 /* ProfileView.swift in Sources */,
 				508BE5852879E52A005EEE34 /* ViewController.swift in Sources */,
-				508BE59D2879E97D005EEE34 /* ProfileViewController.swift in Sources */,
+				50AB1036287D8EE1008A101B /* ProfileViewController.swift in Sources */,
 				508BE5812879E52A005EEE34 /* AppDelegate.swift in Sources */,
 				508BE5832879E52A005EEE34 /* SceneDelegate.swift in Sources */,
 			);
